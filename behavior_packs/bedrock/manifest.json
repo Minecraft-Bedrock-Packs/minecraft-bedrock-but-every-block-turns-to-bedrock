@@ -1,0 +1,26 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Minecraft Bedrock but every block turns to bedrock",
+    "description": "Every block you look at turns to bedrock. Can you beat the game?",
+    "uuid": "9b5b4946-e21c-4506-b81f-f87a9c697f6b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 30]
+  },
+  "modules": [
+    {
+      "description": "Script resources",
+      "language": "javascript",
+      "type": "script",
+      "uuid": "b14d30dd-5c62-48f8-bb71-a385cb288069",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.4.0"
+    }
+  ]
+}
