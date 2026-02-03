@@ -12,7 +12,7 @@
 
 1. Add the addon to the world you wish to do this challenge on.
 2. Load into the world.
-3. Open chat and type `/start` to start the challenge. If you wish to stop open a chat window and type `/stop`.
+3. Open chat and type `/start` to start the challenge. If you wish to stop open a chat and type `/stop`.
 
 ## Development
 
