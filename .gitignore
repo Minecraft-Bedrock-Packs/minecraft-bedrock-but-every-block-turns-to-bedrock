@@ -1,0 +1,6 @@
+.env
+
+# Folders genertated when project is deployed
+dist
+lib
+node_modules
